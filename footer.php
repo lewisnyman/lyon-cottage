@@ -14,12 +14,12 @@
     	    <h2>About Us</h2>
     	    <p>Lyon cottage is situated within the new South Downs National Park, an area of outstanding natural beauty.</p>
     	</div>
-    	
+
     	<div class="block span-8 last">
     	    <h2>Call us Now</h2>
     	    <p>Mobile: 07815 725 619<br />
-    	    
-    	    Landline: 01798 865 295 </p>
+
+    	    Landline: 01798 839 060 </p>
     	    <p><a href="mailto:enquiries@lyoncottage.co.uk">enquiries@lyoncottage.co.uk</a></p>
     	</div>
     	<!--<div class="block span-7">
@@ -39,4 +39,4 @@
 	    s.parentNode.insertBefore(g,s)}(document,'script'));
 	  </script>
 
-	
+

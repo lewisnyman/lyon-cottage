@@ -14,7 +14,7 @@
 <body id="contact" onload="initialize()" onunload="GUnload()">
 
 <?php include("../header.php"); ?>
-	
+
 	<div id="main">
 		<div id="content">
 			<h1>Contact</h1>
@@ -30,7 +30,7 @@
                 </p>
 
                 <p>Mobile: 07815 725 619</p>
-                <p>Landline: 01798 865 295</p>
+                <p>Landline: 01798 839 060</p>
                 <p><a href="mailto:enquiries@lyoncottage.co.uk">enquiries@lyoncottage.co.uk</a></p>
 			</div><!-- /content-top -->
 			<div id="content-bottom" class="clearfix">
@@ -40,6 +40,6 @@
 			</div><!-- /content-bottom -->
 		</div><!-- /content -->
 	</div><!-- /main -->
-<?php include("../footer.php"); ?>	
+<?php include("../footer.php"); ?>
 </body>
 </html>
